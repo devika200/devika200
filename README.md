@@ -140,9 +140,9 @@ Eval       →  BEIR framework · Recall@K · custom eval pipelines
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devika--sanjeev-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/devika-sanjeev)
 [![GitHub](https://img.shields.io/badge/GitHub-devika200-181717?style=flat&logo=github)](https://github.com/devika200)
+[![Resume](https://img.shields.io/badge/Resume-Devika_resume-4A90D9?style=flat&logo=adobeacrobatreader)](https://github.com/devika200/devika200/blob/main/Devika_resume.pdf)
 
-📍 Alappuzha, Kerala, India &nbsp;·&nbsp; 📧 Available for ML roles
-
+📍 Alappuzha, Kerala, India &nbsp;·&nbsp; 📧 devikasanjeev.mec@gmail.com
 ---
 
 *"The fix was 3 lines. Finding it took everything."*
