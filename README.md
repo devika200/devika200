@@ -2,9 +2,9 @@
 <div align="center">
 
 ```
-  ·  D E V I K A  S A N J E E V  ·
-  ───────────────────────────────
-  ml engineer · builder
+  ·                                    D E V I K A  S A N J E E V  ·
+                                      ───────────────────────────────
+                                         ml engineer · builder
 ```
 
 ![](https://img.shields.io/badge/ML-obsessed-4A90D9?style=flat-square)
