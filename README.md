@@ -24,6 +24,7 @@
 CS graduate from Model Engineering College, Kochi (2025). Based in Alappuzha, Kerala.
 
 Spent the last year building ML systems outside of coursework — RAG pipelines, distributed training, sequential models. Genuinely interested in how cognition and ML intersect. 
+
 ---
 
 ## What I've Built
