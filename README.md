@@ -12,11 +12,7 @@
 ![](https://img.shields.io/badge/PyTorch-internals-E74C3C?style=flat-square)
 ![](https://img.shields.io/badge/open_to-opportunities-F39C12?style=flat-square)
 
-<div align="center">
 
-
-
-</div>
 ---
 
 ## Who I Am
