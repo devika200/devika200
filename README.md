@@ -94,17 +94,6 @@ Stack: hmmlearn · sklearn-crfsuite · Flask REST API · JWT auth
 
 ---
 
-## How I Think
-
-```python
-while not_solved:
-    read_internals()
-    question_assumptions()
-    stare_at_logs()
-    if clarity:
-        write_3_lines()
-        break
-```
 
 Most of my best work happens before I touch code. I've spent days staring at retrieval eval results and gradient flow logs — not because I was stuck, but because I was *thinking*. Understanding what the system is actually doing versus what I think it's doing. That gap is where the real work lives.
 
