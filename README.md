@@ -2,9 +2,9 @@
 <div align="center">
 
 ```
-                                                   ·  D E V I K A  S A N J E E V  ·
-                                                   ───────────────────────────────
-                                                    ml engineer · builder
+  ·  D E V I K A  S A N J E E V  ·
+  ───────────────────────────────
+  ml engineer · builder
 ```
 
  
