@@ -14,7 +14,7 @@
 
 <div align="center">
 
-*I don't stop at "it works." I stop at "I understand why it works."*
+
 
 </div>
 ---
